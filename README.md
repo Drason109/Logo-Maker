@@ -21,3 +21,7 @@ node index.js
 ````
 
 Answer the prompt
+![logo](https://github.com/Drason109/Logo-Maker/assets/50891894/2b991363-b15d-4452-b378-52680bd02564)
+
+
+video:https://drive.google.com/file/d/1kSi2hWqhrQHmpDh9ugMliE3a2JaXaLlF/view
